@@ -4,6 +4,6 @@ localJsApp | <a target="_blank" href="https://chrome.google.com/webstore/detail/
 test "loader app" in Js ( .. )
 
 
-|   |   |  |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+|   |   |
+| :------------ | -----:|
+| col 3 is      | $1600 |
