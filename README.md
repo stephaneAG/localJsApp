@@ -6,3 +6,4 @@
 <a target="_blank" href="http://somelink"><img height="100px" width="100px" style="width: 128px; height: 128px;" alt="Try it now" src="http://simpleicon.com/wp-content/uploads/cloud-download-2.png" title="Click here to install"></img></a>
 
 test "loader app" in Js ( .. )
+R to check "github.js" for useful API stuff in js ;)
